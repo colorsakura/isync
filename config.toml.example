@@ -1,0 +1,6 @@
+name = "jianguoyun"
+address = "https://dav.jianguoyun.com/dav/"
+account = "x@qq.com"
+password = "x"
+target = "local dir"
+directory = "webdav dir"
